@@ -1,8 +1,3 @@
-# 💫 About Me:
-🔭 My future is in sight. Just have to aim a bit better.<br>
-👯 There's a reason there are 68 teams that worked on TouchID, collaboration is the key to success.<br>
-🌱 On my way to contribute to our green future.<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stan-smits-63227b21a/) 
 
